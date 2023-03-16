@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021.5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="423.333mm" height="215.635mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 109283.22 55666.13"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil3 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:#172755;fill-rule:nonzero}
+    .fil4 {fill:#1F2F5C;fill-rule:nonzero}
+    .fil0 {fill:#EF2A82;fill-rule:nonzero}
+    .fil2 {fill:#172755;fill-rule:nonzero;fill-opacity:0.000000}
+    .fil5 {fill:#8794BA;fill-rule:nonzero;fill-opacity:0.070588}
+   ]]>
+  </style>
+   <clipPath id="id0" style="clip-rule:nonzero">
+    <path d="M-0 0l109283.22 0 0 40093.27 -109283.22 14411.73 0 -54505z"/>
+   </clipPath>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="-0,37156.27 109283.22,37156.27 109283.22,41254.4 -0,55666.13 "/>
+  <polygon class="fil1" points="-0,0 109283.22,0 109283.22,40093.27 -0,54505 "/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g id="_1753210285024">
+    <polygon class="fil2" points="-0,0 109283.22,0 109283.22,54505 -0,54505 "/>
+   </g>
+  </g>
+  <polygon class="fil3" points="-0,0 109283.22,0 109283.22,40093.27 -0,54505 "/>
+  <path id="_1" class="fil4" d="M109283.22 4034.62c-2791.06,-1623.56 -5756.43,-2980.47 -8861.69,-4034.62l-31589.17 0c-19373.96,6576.42 -33315.31,24916.75 -33315.31,46513.69 0,1106.66 36.61,2204.73 108.68,3293.14l10830.31 -1428.24 15413.56 -15413.56c2397.26,-2397.26 6284.06,-2397.26 8681.58,0l10810.44 10810.41 21663.75 -2856.92 6257.86 -6257.99 0 -30625.91z"/>
+  <path class="fil5" d="M-0 3759.2l3759.2 -3759.2 -3759.2 0 0 3759.2zm10754.98 -3759.2l7771.93 7771.93 7771.91 -7771.93 -15543.87 0 0.03 0z"/>
+  <path class="fil5" d="M34267.78 0l-13748.64 13748.64c-1100.26,1100.34 -2884.18,1100.34 -3984.46,0l-9277.59 -9277.54 -7257.08 7257.11 0 9147.07c4059.61,3946.49 9600.54,6377.15 15709.47,6377.15 12448.32,0 22539.65,-10091.36 22539.65,-22539.63 0,-1616.33 -170.22,-3192.9 -493.56,-4712.81l-3487.78 0z"/>
+ </g>
+</svg>
